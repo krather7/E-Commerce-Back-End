@@ -1,7 +1,5 @@
 # E-Commerce-Back-End
 
-<h1 align="center">E-Commerce Back End</h1>
-
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
