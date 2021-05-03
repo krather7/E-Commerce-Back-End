@@ -1,16 +1,18 @@
 # E-Commerce-Back-End
 
 <h1 align="center">E-Commerce Back End</h1>
-  
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
-## Description
-- 
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
+  
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+## Description
+- 
+
 ## Installation
 - 
 ## License
