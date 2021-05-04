@@ -13,7 +13,7 @@
 - Connect to a MYSQL database to manage inventory
 
 ## DEMO
-- The video below shows hot to create the schema from MYSQL shell and how to seed the database from the command line, and how to start the server.
+- The video below shows hot to create the schema from MYSQL shell and how to seed the database from the command line, and how to start the server.<br>
 ![Demo](/demo/Demo-1.gif)
 - The video below demonstrates GET routes for all catergories, products, and all tags in Insomnia Core.
 ![Demo](/demo/Demo-2.gif)
