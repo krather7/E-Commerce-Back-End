@@ -15,15 +15,15 @@
 ## DEMO
 - The video below shows hot to create the schema from MYSQL shell and how to seed the database from the command line.
 - This video also starts the server.
-![Demo](Demo-1.gif)
+![Demo](/demo/Demo-1.gif)
 - The video below demonstrates GET routes for all catergories, products, and all tags in Insomnia Core.
-![Demo](Demo-2.gif)
+![Demo](/demo/Demo-2.gif)
 - The video below demonstrates POST, PUT, and DELETE routes for categories in Insomnia Core.
-![Demo](Demo-3.gif)
+![Demo](/demo/Demo-3.gif)
 - The video below demonstrates POST, PUT, and DELETE routes for products in Insomnia Core.
-![Demo](Demo-4.gif)
+![Demo](demo/Demo-4.gif)
 - The video below demonstrates POST, PUT, and DELETE routes for tags in Insomnia Core.
-![Demo](Demo-5.gif)
+![Demo](demo/Demo-5.gif)
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
